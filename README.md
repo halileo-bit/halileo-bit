@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Halim Mubdi</h1>
-<h3 align="center">A Cosplayer, IT Support, and Vibe Engineer for Frondend Web Developer from Malang, East Java, Indonesia. My Fiction Wife from Honkai Star Rail for my life, Cerydra. Hajimemashite Everyone🤗</h3>
+<h3 align="center">A Cosplayer, IT Support, and Vibe Engineer for Frondend Web Developer from Malang, East Java, Indonesia. Dedicated to my waifu from Honkai: Star Rail, Cerydra. Hajimemashite Everyone🤗</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=halileo-bit&label=Profile%20views&color=70c8ff&style=flat" alt="halileo-bit" /> </p>
 
