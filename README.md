@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Chileorent](https://halileo-bit.github.io/chileorent/)
 
-- 🌱 I’m currently learning **React Native, Python for advanced, C++ for Arduino IoT, Oracle DB for Web**
+- 🌱 I’m currently learning **React Native(Now), PHP(Now), Unity(Now), SqlLite(CS), Python for advanced, C++ for Arduino IoT, and Oracle DB for Web**
 
 - ✨ Looking for photography? Check out the [Cerydra Archive](https://www.instagram.com/cerychive/)
 
