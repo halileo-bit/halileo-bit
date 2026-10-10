@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Native, Python for advanced, C++ for Arduino IoT, Oracle DB for Web**
 
-- 🤝 I’m looking for help with [Cerydra Archive](https://www.instagram.com/cerychive/)
+- ✨ Looking for photography? Check out the [Cerydra Archive](https://www.instagram.com/cerychive/)
 
 - 💬 Ask me about **Linux, web dev, mobile/PC troubleshooting, photography, or cosplay**
 
